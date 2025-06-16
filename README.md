@@ -1,2 +1,38 @@
-# Online-Exam-And-Results-Management-System-
-A web app built with Java, Tailwind CSS &amp; JS for managing online exams and results. Uses file handling for storage with full CRUD across 6 modules—student registration, exam creation, question management, result entry, and performance tracking—all without a database.
+# Online Exam and Results Management System
+
+A web-based application built using **Java** and the **MVC architecture** to manage online examinations and student results efficiently. This system supports multiple user roles with tailored functionalities for students, teachers, and administrators.
+
+## 🔧 Technologies Used
+
+- Java (Servlets & JSP)
+- MVC (Model-View-Controller) Architecture
+- HTML, CSS, JavaScript
+- Tailwind CSS (for modern UI styling)
+- File Handling (for data storage instead of database)
+
+## 🚀 Features
+
+### 👨‍🎓 Student Module
+- Student Registration & Login
+- Personal Dashboard
+- View Available Exams
+- Enroll in Exams (with Payment Functionality)
+- View Results
+
+### 👨‍🏫 Teacher Module
+- Teacher Dashboard
+- Add / Manage Questions for Exams
+
+### 🧑‍💼 Admin Module
+- Create / Update / Delete Exams
+- Manage Student Information
+- Manage Teachers
+- View Enrollments and Results
+
+### 📩 Contact Module
+- Contact Us Form (CRUD supported)
+- Admin can view and respond to messages
+
+## 📁 Project Structure (MVC)
+
+
