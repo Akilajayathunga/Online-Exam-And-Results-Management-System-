@@ -35,4 +35,4 @@ A web-based application built using **Java** and the **MVC architecture** to man
 
 ## 📁 Project Structure (MVC)
 
-
+![image alt](https://github.com/Akilajayathunga/Online-Exam-And-Results-Management-System-/blob/168d9a3071dfcf7465eb96d9f113fd162bd93f1f/Screenshot%202025-05-04%20101913.png)
